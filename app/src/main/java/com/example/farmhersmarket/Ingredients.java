@@ -23,7 +23,7 @@ public class Ingredients extends AppCompatActivity {
         setSeasonality();
         setImage();
         setName();
-        
+
         populateRecipes();
 
     }

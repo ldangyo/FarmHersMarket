@@ -21,8 +21,8 @@
 
     <ImageView
         android:id="@+id/IngriPic"
-        android:paddingTop="40dp"
-        android:layout_width="578dp"
+        android:paddingTop="25dp"
+        android:layout_width="540dp"
         android:layout_height="284dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
