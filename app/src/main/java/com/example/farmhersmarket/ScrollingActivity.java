@@ -11,6 +11,10 @@ import android.view.MenuItem;
 
 public class ScrollingActivity extends AppCompatActivity {
 
+    public void helloWorld(){
+        System.out.println("hello");
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
